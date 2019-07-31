@@ -12,7 +12,7 @@ Video production for libraries can take many forms. J has created video booktalk
 
 When J worked for the Vancouver Island Regional Library he was part of the team producing Librarians on the Radio, a monthly radio program and podcast that won a BC Library Association Advocacy award and an award from the American Library Association.
 
-<iframe src="https://archive.org/embed/LotR150526&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/LotR150526&playlist=1" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## contact
 
