@@ -6,9 +6,13 @@ Librarianaut Media is a small endeavour run by J Jack Unrau that specializes in 
 
 Video production for libraries can take many forms. J has created video booktalks, demonstration screencasts (to supplement more detailed instructional materials), library profiles and even recreated library programs for people who couldn't attend in person.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Notd__W4D5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## podcasts
 
 When J worked for the Vancouver Island Regional Library he was part of the team producing Librarians on the Radio, a monthly radio program and podcast that won a BC Library Association Advocacy award and an award from the American Library Association.
+
+<iframe src="https://archive.org/embed/LotR150526&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## contact
 
