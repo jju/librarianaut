@@ -68,16 +68,7 @@ In my experience, librarians aren't really good at talking about power in the ev
 
 Even in the slightly less material realm of "help with technology" we are constantly making choices about the kinds of help we provide. These choices are shaped by a number of things, including the skills of library workers, what we have the funds and staffing to provide, but also by more explicitly political concerns like protecting the library from litigation, and satisfying the world-defiling corporations that fund us. But they are also driven by "librarianly values" whatever they are. So what are librarianly values?[^10] Do we have the ability to live out those values?
 
-[^10]: From [the ALA website](http://www.ala.org/aboutala/): In pursuing our mission, the Association’s core value statements define our deepest aspirations and how we approach our work together. They are:
-* Extending and expanding library services in America and around the world
-* All types of libraries - academic, public, school and special
-* All librarians, library staff, trustees and other individuals and groups working to improve library services
-* Member service
-* An open, inclusive, and collaborative environment
-* Ethics,[^11] professionalism and integrity
-* Excellence and innovation
-* Intellectual freedom
-* Social responsibility and the public good
+[^10]: From [the ALA website](http://www.ala.org/aboutala/): In pursuing our mission, the Association’s core value statements define our deepest aspirations and how we approach our work together. They are Extending and expanding library services in America and around the world - All types of libraries - academic, public, school and special - All librarians, library staff, trustees and other individuals and groups working to improve library services - Member service - An open, inclusive, and collaborative environment - Ethics,[^11] professionalism and integrity - Excellence and innovation - Intellectual freedom - Social responsibility and the public good
 
 [^11]: A word buried in the middle of the core values, after extending and expanding services. That fucking growth mindset as if that is all that matters, that stewardship of the services isn't important. It's so vague and meaningless or part of capitalism.
 
@@ -88,10 +79,7 @@ Even in the slightly less material realm of "help with technology" we are consta
 Digital literacy (at least in our library's plan of service and my job description) has to do with teaching and empowering our library users to deal with this technology-driven world.[^12] One of the big problems we have in library technology help is the power imbalance between the library user and the gigantic corporations that are providing these services.[^13]
 
 [^12]: This would be a good place to actually list what our library says about digital literacy. Our strategy says:
-Strathcona County Library is a destination for Strathcona County residents who want to learn, share, create and connect in a rapidly evolving digital environment.
-* Patrons and staff share ideas and expertise in an enthusiastic community of learning.
-* All staff members facilitate and support patrons’ opportunities to build skills to access, evaluate, analyze, create and connect using digital resources.
-* Staff members are not expected to be experts in everything, but they will be comfortable assisting patrons in a co-learning approach.
+Strathcona County Library is a destination for Strathcona County residents who want to learn, share, create and connect in a rapidly evolving digital environment. - Patrons and staff share ideas and expertise in an enthusiastic community of learning. - All staff members facilitate and support patrons’ opportunities to build skills to access, evaluate, analyze, create and connect using digital resources. - Staff members are not expected to be experts in everything, but they will be comfortable assisting patrons in a co-learning approach.
 
 [^13]: I think it might be useful to draw out the distinction between library technologies and the rest of the silicon-based world here, rather than leaving it for the end where I diss the library workers who don't want to help with the rest of it. The gigantic corporations include Google and Facebook, yes, but also Overdrive and Western Digital. People who sell to librarians aren't librarians themselves and they are trying to parasite off of our values to clean up their profit-seeking goals.
 
