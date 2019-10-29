@@ -11,7 +11,7 @@ creator:
   text: ?
 identifier:
 - scheme: ISBN
-  text: ISBN:
+  text: ISBN: 978
 publisher: Librarianaut Media
 rights: Creative Commons Non-Commercial Share Alike 3.0
 ibooks:
