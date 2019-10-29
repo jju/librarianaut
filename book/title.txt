@@ -1,6 +1,0 @@
----
-title: Bibli O; or the Work
-author: J Jack Unrau
-rights:  Creative Commons Non-Commercial Share Alike 3.0
-language: en-US
-...
