@@ -97,10 +97,7 @@ At our library we do somewhere around 15 hours each month teaching digital liter
 
 My coworkers and I can disagree on the value of things like privacy education for our users (who are mostly white senior citizens that are pretty well-off), but one of the things we do our best to talk about is how we as library workers who’ve had time to research and think about technology in a way that lets us teach it how we use technology. This leaves things up to individual instructors who sometimes will err on the side of expediency. But this has also led to my colleague offering a class called Intro to Voice Assistants in which we just squick everyone out about the gadget their well-meaning relative gave them.
 
-What I haven’t been able to do is make change at the institutional level[^3]. A topical example: 
-
-[^3]: [[202006301221-marginalized-christianity]]
-
+What I haven’t been able to do is make change at the institutional level. A topical example: 
 
 # lynda -> linkedin learning
 
@@ -110,7 +107,11 @@ So Microsoft bought LinkedIn which bought Lynda (I don't know the order) and thi
 
 Of course LinkedIn touted changes as making things easier for our users (now they can use the app which library logins couldn’t before) but the now library users couldn’t just sign in with a library barcode and PIN (which I am aware isn’t great anyways with SIP2 authentication but whatever) but needed to create a LinkedIn social media account. Which, by default would be indexed by Google. To watch videos the library is paying for. 
 
-If you believe Jaron Lanier (of *Ten Reasons to Delete Your Social Media Accounts Right Now* @lanierTenArgumentsDeleting2018) LinkedIn isn’t the worst of the social media companies, but if you believe Shoshana Zuboff (of *The Age of Surveillance Capitalism* @zuboffAgeSurveillanceCapitalism2019) you’re probably pretty leery of Microsoft feeding all this detail how your library users are educating themselves into their AI projects.
+If you believe Jaron Lanier (of *Ten Reasons to Delete Your Social Media Accounts Right Now*[^3]) LinkedIn isn’t the worst of the social media companies, but if you believe Shoshana Zuboff (of *The Age of Surveillance Capitalism*[^4]) you’re probably pretty leery of Microsoft feeding all this detail how your library users are educating themselves into their AI projects.
+
+[^3]: Lanier, J. (2018). Ten arguments for deleting your social media accounts right now. New York Henry Holt And Company.
+
+[^4]: Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Public Affairs.
 
 So I don’t know what we should be doing as technomoral exemplars in this case. I mean, I know we shouldn’t just be saying “Welp. That’s the way of the world now” and throwing our library users to the tender mercies of social media, but I also know that I will have very little institutional support for getting our IT staff to build a tool that could expropriate all the videos from Lynda.com and host them on our own servers so users wouldn't be exposed to all that. Although really, that'd be an awesome service to provide. 
 
@@ -122,7 +123,9 @@ Apparently the Lynda-LinkedIn changeover has now been delayed but not through an
 
 I'm ending with a bit from Wendell Berry in *Unsettling America*. Mostly because I like the parallel between the challenges of big technology in human-scale farming and in human-scale library work.
 
->“It is an old story. Evil is offering us the world: “All these things will I give thee, if thou wilt fall down and worship me.” And we have only the old paradox for an answer: If we accept all on that condition, we lose all. What is new is the guise of the evil: a limitless technology, dependent upon a limitless morality, which is to say upon no morality at all. - Wendell Berry, Unsettling America @berryUnsettlingAmericaCulture1997 
+>“It is an old story. Evil is offering us the world: “All these things will I give thee, if thou wilt fall down and worship me.” And we have only the old paradox for an answer: If we accept all on that condition, we lose all. What is new is the guise of the evil: a limitless technology, dependent upon a limitless morality, which is to say upon no morality at all. - Wendell Berry, Unsettling America[^5]
+
+[^5]: Berry, W. (2015). Unsettling of America : Culture & Agriculture.* Counterpoint.
 
 So here we are, stuck in a status quo that pretends to be simple because that is what is profitable for others, not what is of value. A shallow education in "what works" is a matter of throwing people into a thresher, not providing them meaningful ways to develop themselves and their communities. It's our job to be reflective critical and resistant and stop making it easy for those limitless appetites to devour everything.
 
