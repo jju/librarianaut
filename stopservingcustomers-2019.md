@@ -18,7 +18,7 @@ As a digital literacy librarian my job is part of our library's strategic plan. 
 
 These choices are shaped by a number of things, including my skills and the skills of my fellow library workers, what we have the funds and staffing to provide, but also by more explicitly political concerns like protecting the library from litigation, and satisfying the world-defiling corporations that sponsor our programs (seriously, the number of Enbridge and Inter Pipeline logos we have to put on our summer reading games so we keep on getting sponsorship dollars is sickening, but that is another talk). 
 
-But ideally they are supposed to be driven by "librarianly values" whatever those may be. [Sam Popowich wrote recently](https://redlibrarian.github.io/article/2019/08/16/constituent-power-and-intellectual-freedom.html) that Marx's [[free-development | “the free development of each as a condition for the free development of all”]] would be a good place to start. It's my thesis that the library workers helping the free development of our eaches have a lot of problems.
+But ideally they are supposed to be driven by "librarianly values" whatever those may be. [Sam Popowich wrote recently](https://redlibrarian.github.io/article/2019/08/16/constituent-power-and-intellectual-freedom.html) that Marx's “the free development of each as a condition for the free development of all” would be a good place to start. It's my thesis that the library workers helping the free development of our eaches have a lot of problems.
 
 # a problem:
 
@@ -28,15 +28,15 @@ It’s important to note here that when we're helping the public we aren't solel
 
 # can't sign into email
 
-When you are the [[public-service | free tech help desk for the public]] you get used to explaining things you do every day without thinking. You have to explain to people why they can't access their GMail account by signing in on the library website. You have to explain about apps and ebooks and what the difference is between text messages and Facebook Messenger and [[instagram | why oh why you can't save pictures your nephew posted on instagram]].
+When you are the free tech help desk for the public you get used to explaining things you do every day without thinking. You have to explain to people why they can't access their GMail account by signing in on the library website. You have to explain about apps and ebooks and what the difference is between text messages and Facebook Messenger and Instagram.
 
 # the problem:
 
-So those are the kinds of problems we’re dealing with but that’s not the problem. The problem isn't that there is a lot. The problem isn't that it is too complicated or too hard for library workers to help people with all of these things. The problem we have in library technology help is the [[power imbalance]] between the library user and the gigantic corporations that are “providing” these services.
+So those are the kinds of problems we’re dealing with but that’s not the problem. The problem isn't that there is a lot. The problem isn't that it is too complicated or too hard for library workers to help people with all of these things. The problem we have in library technology help is the power imbalance between the library user and the gigantic corporations that are “providing” these services.
 
 # big tech doesn't care
 
-Part of the reason why we need to provide this help to users and hence support this [[technology-driven status quo]] is that [[opaque-system  | the system we buy into (with our money) and support (with our teaching) is opaque to our users]]. Large corporations set the rules and we teach people how to think within those systems. This is the big education project we are engaged with when we show people how to work their surveillance devices: how to be compliant with systems they don't understand.
+Part of the reason why we need to provide this help to users and hence support this technology-driven status quo is that the system we buy into (with our money) and support (with our teaching) is opaque to our users. Large corporations set the rules and we teach people how to think within those systems. This is the big education project we are engaged with when we show people how to work their surveillance devices: how to be compliant with systems they don't understand.
 
 And much like the "just add technology" theory of transparency @tanseyWhatWeDon2019 [^1] doesn't work, the "make it easier for the user" approach doesn't either. Because user-friendly doesn’t necessarily mean user-understandable, and when a for-profit tech company makes something smoother, the friction they're trying to remove is the stuff getting in the way of profit, not the stuff getting in the way of their users developing themselves and changing their societies.
 
@@ -47,7 +47,7 @@ And much like the "just add technology" theory of transparency @tanseyWhatWeDon2
 
 But that expectation of ease is insidious and libraries as organizations are complicit. 
 
-I think it's easy for us to slip into a [[customer service model]] where we're looking for a happy user at the end of our interaction. Library workers are helpful. We generally like to help. We (and our administrations especially) want our users to be happy at the end of our interaction because we were so helpful. 
+I think it's easy for us to slip into a customer service model where we're looking for a happy user at the end of our interaction. Library workers are helpful. We generally like to help. We (and our administrations especially) want our users to be happy at the end of our interaction because we were so helpful. 
 
 # customer service 
 
@@ -63,9 +63,9 @@ Don’t get me wrong, [the library freedom project](https://libraryfreedom.org/)
 
 (beat)
 
-# [[202204221312-capitalism]]
+# capitalism
 
-The problem is of course capitalism and how it's created a world where we have a few decades of livable climate left. Obviously that is the problem. And whenever us well-meaning technology helping type people show someone how to [[think like the machine]] and speak so the machine will understand us, as if that will help anything, it's at the very least not helpful for this problem.
+The problem is of course capitalism and how it's created a world where we have a few decades of livable climate left. Obviously that is the problem. And whenever us well-meaning technology helping type people show someone how to think like the machine and speak so the machine will understand us, as if that will help anything, it's at the very least not helpful for this problem.
 
 But let’s get back to how we deal with this at our library, because that’s my job. I have this job because I can help people with their techno-woes. I can understand and explain them even if I don’t actually have the power to tear down capitalism (and my users wouldn’t want me to try). But what we can do is make things difficult.
 
@@ -77,9 +77,9 @@ Yes, it is more complicated to set up a secure password manager or use Tor for b
 
 But “make it more complicated” is a sentiment coming from a very privileged place. It’s my *job* to deal with this kind of thing and I shouldn’t be asking everyone in the world to be like me. So what can we do?
 
-# [[technomoral-education]]
+# technomoral education
 
-This is something I had a lot of trouble with earlier in my library career before reading Shannon Vallor’s book *Technology and the Virtues* [^2] (which I found through the [Librarianshipwreck blog](https://librarianshipwreck.wordpress.com/2017/08/24/living-well-in-the-technosocial-world-a-review-of-shannon-vallors-technology-and-the-virtues/)). Vallor’s book is a summary of Aristotelean and Buddhist and Confucian [[virtue ethics]] and how we could use them to lead a moral life in a technologically mediated world.
+This is something I had a lot of trouble with earlier in my library career before reading Shannon Vallor’s book *Technology and the Virtues* [^2] (which I found through the [Librarianshipwreck blog](https://librarianshipwreck.wordpress.com/2017/08/24/living-well-in-the-technosocial-world-a-review-of-shannon-vallors-technology-and-the-virtues/)). Vallor’s book is a summary of Aristotelean and Buddhist and Confucian virtue ethics and how we could use them to lead a moral life in a technologically mediated world.
 
 Virtue ethics assume that you can't just make a simple rule to follow and remember because the world and its circumstances constantly change and we need to approach situations *specifically*. One of the big things is to cultivate good habits and approaches that can be applied flexibly to the changing situation of life.
 
@@ -120,7 +120,7 @@ Apparently the Lynda-LinkedIn changeover has now been delayed but not through an
 
 # digital literacy & agriculture
 
-I'm ending with a bit from Wendell Berry in *Unsettling America*. Mostly because I like the parallel between the challenges of big technology in [[human-scale farming]] and in human-scale library work.
+I'm ending with a bit from Wendell Berry in *Unsettling America*. Mostly because I like the parallel between the challenges of big technology in human-scale farming and in human-scale library work.
 
 >“It is an old story. Evil is offering us the world: “All these things will I give thee, if thou wilt fall down and worship me.” And we have only the old paradox for an answer: If we accept all on that condition, we lose all. What is new is the guise of the evil: a limitless technology, dependent upon a limitless morality, which is to say upon no morality at all. - Wendell Berry, Unsettling America @berryUnsettlingAmericaCulture1997 
 
