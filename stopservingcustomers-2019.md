@@ -38,7 +38,7 @@ So those are the kinds of problems we’re dealing with but that’s not the pro
 
 Part of the reason why we need to provide this help to users and hence support this technology-driven status quo is that the system we buy into (with our money) and support (with our teaching) is opaque to our users. Large corporations set the rules and we teach people how to think within those systems. This is the big education project we are engaged with when we show people how to work their surveillance devices: how to be compliant with systems they don't understand.
 
-And much like the "just add technology" theory of transparency @tanseyWhatWeDon2019 [^1] doesn't work, the "make it easier for the user" approach doesn't either. Because user-friendly doesn’t necessarily mean user-understandable, and when a for-profit tech company makes something smoother, the friction they're trying to remove is the stuff getting in the way of profit, not the stuff getting in the way of their users developing themselves and changing their societies.
+And much like the "just add technology" theory of transparency[^1] doesn't work, the "make it easier for the user" approach doesn't either. Because user-friendly doesn’t necessarily mean user-understandable, and when a for-profit tech company makes something smoother, the friction they're trying to remove is the stuff getting in the way of profit, not the stuff getting in the way of their users developing themselves and changing their societies.
 
 [^1]: Tansey, E. (2019, October 10). What we don’t know about what we can’t see: Information and hidden infrastructure (Eira Tansey). https://www.youtube.com/watch?v=iLLFerw8R3c&feature=youtu.be
 
