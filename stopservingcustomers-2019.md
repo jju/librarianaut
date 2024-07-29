@@ -1,12 +1,10 @@
-#digitalliteracy #technology #ethics
+> This is the text of a talk I gave at the 2019 Access Conference in Edmonton. You can also [watch the video version of this talk](https://youtu.be/sXeDlDp4CPg)
 
 # stop serving customers (up on a platter)
 
 Hi there, I'm J Unrau. I used to live on Vancouver Island where I was a children's librarian, a union steward, and producer of a radio show. Now I am none of those things and live in Edmonton. 
 
 As much as I can, I bicycle past the refineries to work as the digital literacy librarian at Strathcona County Library. My toddler in the trailer hasn't gotten frostbite or mesothelioma yet.
-
-[Watch the video version of this talk](https://youtu.be/sXeDlDp4CPg)
 
 # introduction
 
